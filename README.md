@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devthiagofraga&layout=compact)](https://github.com/devthiagofraga/github-readme-stats)
 
-### Tecnologias que mais uso no meu dia a dia.
+### Tecnologias que estou estudando.
 
 <div style="display: inlin_block" ><b/r>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
