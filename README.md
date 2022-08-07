@@ -16,4 +16,4 @@
 
 </div><br/>
 
-### Corrigindo os bugs que a vida coloca diante de nós todos os dias.
+### Corrigindo os bugs que a vida coloca a minha frente.
